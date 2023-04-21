@@ -3,8 +3,8 @@ Personal portfolio database
 
 ### Repository files
 
-Database Schema Image<br/>
-MySQL script file
+1. Database Schema Image
+2. MySQL script file
 
 The MySQL script file can be used to create the Tables with their respective attributes from the ERD.
 
